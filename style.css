@@ -1,0 +1,17 @@
+body {
+   font-family: 'Times New Roman', Times, serif;
+   font-weight: normal;
+   font-style: normal;
+}
+
+h1 {
+   font-weight: 1000;
+}
+
+.background-gray {
+   background-color: rgb(243, 243, 243);
+}
+
+.inner-container {
+   padding: 3px;
+}
